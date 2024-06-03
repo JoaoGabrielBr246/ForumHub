@@ -1,0 +1,5 @@
+com/alura/ForumHub/topico/Topico.class
+com/alura/ForumHub/controller/TopicoController.class
+com/alura/ForumHub/topico/TopicoRepository.class
+com/alura/ForumHub/topico/DadosSalvarTopico.class
+com/alura/ForumHub/ForumHubApplication.class
